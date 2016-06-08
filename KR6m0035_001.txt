@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:40.981544
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:37
 #+TITLE: 三論遊意義
 #+PROPERTY: CBETA_ID T45n1855
 #+PROPERTY: ID KR6m0035
