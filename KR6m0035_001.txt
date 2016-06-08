@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:40.981544
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:37
 #+TITLE: 三論遊意義
 #+PROPERTY: CBETA_ID T45n1855
 #+PROPERTY: ID KR6m0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1855
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0035_T_001-0116a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1855¶
-
- 三論遊意義¶
+No. 1855¶
+三論遊意義¶
 ¶
 碩法師撰¶
 
